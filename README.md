@@ -1,1 +1,1 @@
-# Human-Activity-Recognition-using-Smartphones
+Human Activity Recognition involves identifying what a person is doing using sensors that react to movement. This project is about recognizing human activities using the sensors in smartphones and different machine learning models.
